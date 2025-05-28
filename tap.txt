@@ -1,5 +1,3 @@
---// leak
-
 repeat wait() until game:IsLoaded()
 
 game:GetService("CorePackages").Packages:Destroy()
